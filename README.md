@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 
 <h3 align="center">
-Software Engineer | Full Stack Developer | Data Science Enthusiast
+🚀 Aspiring Software Engineer | MCA Student | Full Stack Developer | Data Science Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Software+Engineer+in+Making;Full+Stack+Developer;Data+Science+Enthusiast;Always+Learning+New+Technologies;Love+Building+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Software+Engineer+in+Making;Full+Stack+Developer;Data+Science+Enthusiast;DSA+%7C+LeetCode+Learner;Building+Real+World+Projects" />
 </p>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/>
-
+  <img src="https://komarev.com/ghpvc/?username=ankit-kumar9648&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/ankit-kumar9648?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/ankit-kumar9648?style=for-the-badge" />
 </p>
 
 ---
@@ -24,33 +20,26 @@ Software Engineer | Full Stack Developer | Data Science Enthusiast
 
 🎓 MCA Student from India
 
-💻 Passionate about Software Engineering and Problem Solving.
+💻 Passionate about Software Development, Problem Solving, and Learning New Technologies.
 
-🌱 Currently learning
+🌱 Currently Learning
 
 - Data Structures & Algorithms
 - Full Stack Development
 - AWS Cloud
 - Machine Learning
+- System Design
 
-🚀 Building real-world projects using
+🚀 Interested In
 
-- React
-- Node.js
-- MongoDB
-- C++
-- Python
-
-💡 Interested in
-
-- Software Development
-- Backend Engineering
+- Software Engineering
+- Backend Development
 - Cloud Computing
-- AI & Data Science
+- Artificial Intelligence
 
 🎯 Goal
 
-Become a Software Development Engineer (SDE).
+Become a Software Development Engineer (SDE) at a top product-based company.
 
 ---
 
@@ -58,20 +47,20 @@ Become a Software Development Engineer (SDE).
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://linkedin.com/in/ankit-kumar-b25ab3256">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/ankit-kumar9648">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="https://www.kaggle.com/YOUR_KAGGLE">
-<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="48"/>
+<a href="https://www.kaggle.com/ankitkumar9812">
+<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="42"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
 </p>
@@ -83,70 +72,58 @@ Become a Software Development Engineer (SDE).
 ### Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js"/>
-
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,cs" />
 </p>
 
 ### Frontend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
 </p>
 
 ### Backend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Database
+### Databases
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql"/>
-
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
 </p>
 
 ### Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
 </p>
 
 ### Cloud
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=aws"/>
-
+<img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
 ---
 
 # 🚀 Current Focus
 
-- Solving LeetCode Problems Daily
-- Building Full Stack Projects
-- Learning AWS
-- Strengthening DSA
-- Contributing to Open Source
+- ✅ Solving LeetCode Problems
+- ✅ Building Full Stack Projects
+- ✅ Learning AWS Cloud
+- ✅ Strengthening DSA
+- ✅ Improving Backend Development Skills
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankit-kumar9648&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-kumar9648&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -156,27 +133,27 @@ Become a Software Development Engineer (SDE).
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=ankit-kumar9648&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ankit-kumar9648&theme=algolia&no-frame=true&row=1&column=7"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 📈 Activity Graph
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=1&column=7"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankit-kumar9648&theme=tokyo-night"/>
 
 </p>
 
@@ -184,13 +161,13 @@ Become a Software Development Engineer (SDE).
 
 # 💼 Featured Projects
 
-| Project | Tech Stack |
-|----------|------------|
-| 🛒 Grocery Management System | C++, File Handling, OOP |
-| 🌐 Personal Portfolio Website | React, Tailwind CSS |
-| 🚗 Car Price Prediction | Python, Machine Learning |
-| 📊 Health Analytics Dashboard | Python, Data Science |
-| 🎓 Student Management System | ASP.NET, SQL Server |
+| Project | Description |
+|---------|-------------|
+| 🛒 Grocery Management System | C++ File Handling & OOP based management system |
+| 🌐 Personal Portfolio | React + Tailwind CSS Portfolio |
+| 🚗 Car Price Prediction | Machine Learning Regression Project |
+| 📊 Health Analytics Dashboard | Data Science Visualization Project |
+| 🎓 Student Management System | ASP.NET & SQL Server |
 
 ---
 
@@ -203,9 +180,9 @@ Become a Software Development Engineer (SDE).
 
 ✔ Node.js
 
-✔ AWS
-
 ✔ MongoDB
+
+✔ AWS Cloud
 
 ✔ Machine Learning
 
@@ -216,36 +193,28 @@ Become a Software Development Engineer (SDE).
 
 # 🧠 Coding Profiles
 
-- 💻 LeetCode
-- 🟡 HackerRank
-- 🟢 GeeksforGeeks
-- 🔵 CodeChef
-
-(Add profile links here.)
+- 💛 LeetCode → https://leetcode.com/u/YOUR_LEETCODE/
+- 💚 GeeksforGeeks → https://www.geeksforgeeks.org/user/YOUR_GFG/
+- 🤎 CodeChef → https://www.codechef.com/users/YOUR_CODECHEF
 
 ---
 
-# 📈 2026 Goals
+# 🎯 2026 Goals
 
-- ✅ 500+ LeetCode Problems
-- ✅ AWS Cloud Practitioner Certification
-- ✅ 10+ Full Stack Projects
-- ✅ Open Source Contributions
-- ✅ SDE Internship
-- ✅ Software Development Engineer Role
+- ✅ Solve 500+ LeetCode Problems
+- ✅ Earn AWS Cloud Certification
+- ✅ Build 10+ Real World Projects
+- ✅ Contribute to Open Source
+- ✅ Crack an SDE Role
 
 ---
 
 # 💬 Quote
 
-> "Success isn't about being the smartest. It's about showing up, learning consistently, and never giving up."
+> **"Consistency beats intensity. Every line of code brings me one step closer to my goal."**
 
 ---
 
 <p align="center">
-
-### ⭐ Thank you for visiting my profile ⭐
-
-If you like my work, consider giving a ⭐ to my repositories.
-
+⭐ Thanks for visiting my profile! If you like my work, consider giving a star to my repositories.
 </p>
