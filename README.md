@@ -193,9 +193,7 @@ Become a Software Development Engineer (SDE) at a top product-based company.
 
 # 🧠 Coding Profiles
 
-- 💛 LeetCode → https://leetcode.com/u/YOUR_LEETCODE/
-- 💚 GeeksforGeeks → https://www.geeksforgeeks.org/user/YOUR_GFG/
-- 🤎 CodeChef → https://www.codechef.com/users/YOUR_CODECHEF
+- 💛 LeetCode → [https://leetcode.com/u/YOUR_LEETCODE/](https://leetcode.com/u/akyadav1/)
 
 ---
 
