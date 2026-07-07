@@ -117,38 +117,6 @@ Become a Software Development Engineer (SDE) at a top product-based company.
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankit-kumar9648&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-kumar9648&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ankit-kumar9648&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ankit-kumar9648&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
 # 📈 Activity Graph
 
 <p align="center">
@@ -193,7 +161,7 @@ Become a Software Development Engineer (SDE) at a top product-based company.
 
 # 🧠 Coding Profiles
 
-- 💛 LeetCode → [https://leetcode.com/u/YOUR_LEETCODE/](https://leetcode.com/u/akyadav1/)
+- 💛 LeetCode → https://leetcode.com/u/akyadav1/
 
 ---
 
