@@ -18,9 +18,15 @@
 
 # 💫 About Me
 
-🎓 MCA Student from India
+🎓 MCA Student specializing in Data Science & AI.
 
-💻 Passionate about Software Development, Problem Solving, and Learning New Technologies.
+💻 Passionate about Software Development, Problem Solving, and Building Real-World Applications.
+
+🚀 Skilled in C++, Java, Python, JavaScript, React.js, Node.js, SQL, Power BI, and Database Management.
+
+🌱 Currently exploring Cloud Computing, Machine Learning, and System Design while strengthening my Data Structures & Algorithms skills.
+
+🎯 My goal is to become a Software Development Engineer (SDE) at a leading product-based company and build impactful software solutions.
 
 🌱 Currently Learning
 
@@ -109,11 +115,13 @@ Become a Software Development Engineer (SDE) at a top product-based company.
 
 # 🚀 Current Focus
 
-- ✅ Solving LeetCode Problems
-- ✅ Building Full Stack Projects
-- ✅ Learning AWS Cloud
-- ✅ Strengthening DSA
-- ✅ Improving Backend Development Skills
+- 💻 Solving LeetCode Problems Daily
+- 📚 Mastering Data Structures & Algorithms
+- 🌐 Building Full Stack Applications with React & Node.js
+- ☁️ Learning AWS Cloud Fundamentals
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 📊 Creating Data Analytics Dashboards using Power BI
+- 🛠️ Developing Real-World Software Projects
 
 ---
 
@@ -129,13 +137,12 @@ Become a Software Development Engineer (SDE) at a top product-based company.
 
 # 💼 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🛒 Grocery Management System | C++ File Handling & OOP based management system |
-| 🌐 Personal Portfolio | React + Tailwind CSS Portfolio |
-| 🚗 Car Price Prediction | Machine Learning Regression Project |
-| 📊 Health Analytics Dashboard | Data Science Visualization Project |
-| 🎓 Student Management System | ASP.NET & SQL Server |
+| 🚀 Project | 📖 Description |
+|------------|----------------|
+| 🎮 **[Gaming Gear Hub](https://github.com/ankit-kumar9648/Gaming-Gear-Hub)** | A full-stack e-commerce platform for gaming accessories built with **React.js, Node.js, PostgreSQL, and Tailwind CSS**. Includes product management, responsive UI, and modern web development practices. |
+| 🤖 **[ExamNotesAI](https://github.com/ankit-kumar9648/1.ExamNotesAI)** | An AI-powered study assistant designed to help students generate smart notes, organize study materials, and improve exam preparation using modern AI technologies. |
+| 📊 **[Pizza Sales Analysis Dashboard](https://github.com/ankit-kumar9648/pizza-sales-analysis-powerbi)** | Interactive **Power BI** dashboard analyzing pizza sales data using SQL and Excel. Features KPI cards, revenue analysis, sales trends, and business insights through data visualization. |
+| 📚 **[PEP Learning Update](https://github.com/ankit-kumar9648/pep-learning-update)** | A daily learning repository containing **DSA practice, C/C++ programming, LeetCode solutions, notes, and projects** including a **File Handling based Grocery Management System** developed using C++ and Object-Oriented Programming concepts. |
 
 ---
 
@@ -146,13 +153,15 @@ Become a Software Development Engineer (SDE) at a top product-based company.
 
 ✔ React.js
 
-✔ Node.js
+✔ Node.js & Express.js
 
-✔ MongoDB
+✔ MongoDB & PostgreSQL
 
 ✔ AWS Cloud
 
 ✔ Machine Learning
+
+✔ Power BI
 
 ✔ System Design
 ```
@@ -171,7 +180,6 @@ Become a Software Development Engineer (SDE) at a top product-based company.
 - ✅ Earn AWS Cloud Certification
 - ✅ Build 10+ Real World Projects
 - ✅ Contribute to Open Source
-- ✅ Crack an SDE Role
 
 ---
 
