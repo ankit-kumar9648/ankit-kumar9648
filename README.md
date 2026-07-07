@@ -65,7 +65,7 @@ Become a Software Development Engineer (SDE) at a top product-based company.
 <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="42"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:ankyad9812@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
